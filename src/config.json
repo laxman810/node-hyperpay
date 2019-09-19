@@ -1,0 +1,10 @@
+{
+    "MONGO_DB_URL": "mongodb://localhost:27017/test",
+    "APP_NAME": "hyperPay",
+    "USERID": "your user id  from  hyperPay",
+    "PASSWORD": "your hyperPay password",
+    "ENTITYID_DB": "entity id for hyperPay DB",
+    "ENTITYID_PA": "entity id for hyperPay PA",
+    "CURRENCY": "SAR or any currency",
+    "PAYMENT_HOST": "test.oppwa.com  or live.oppwa.com"
+}
