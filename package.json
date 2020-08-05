@@ -6,7 +6,7 @@
     "async": "^2.5.0",
     "bcrypt": "1.0.2",
     "cheerio": "^1.0.0-rc.2",
-    "express-fileupload": "0.1.2", 
+    "express-fileupload": "1.1.9", 
     "good": "7.2.0",
     "good-console": "6.4.0",
     "hapi": "16.4.3",
